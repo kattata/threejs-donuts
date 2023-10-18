@@ -144,5 +144,4 @@ tick()
 // Debug
 if (window.location.pathname === '/controls') {
     const gui = new dat.GUI()
-    console.log(window.location.pathname);
 }
